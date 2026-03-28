@@ -1,3 +1,30 @@
+# Project-specific runtime artifacts
+models/
+audio/
+transcripts/
+
+# Python virtual environments
+.venv/
+
+# Large media source files
+*.mp3
+*.wav
+*.m4a
+*.flac
+*.ogg
+*.opus
+*.mp4
+*.mkv
+*.mov
+*.avi
+
+# Model/checkpoint binaries
+*.pt
+*.pth
+*.bin
+*.onnx
+*.safetensors
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
