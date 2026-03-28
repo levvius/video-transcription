@@ -1,7 +1,9 @@
 # Project-specific runtime artifacts
 models/
 audio/
-transcripts/
+transcripts/*
+!transcripts/
+!transcripts/*.txt
 
 # Python virtual environments
 .venv/
