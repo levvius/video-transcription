@@ -16,9 +16,11 @@ transcripts/*
 *.ogg
 *.opus
 *.mp4
+*.webm
 *.mkv
 *.mov
 *.avi
+transc.zip
 
 # Model/checkpoint binaries
 *.pt
